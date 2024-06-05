@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Makesure everyone practice CICD project..which is Real-Time Project **** </h1>   
+         <h1> **** hello this is CICD project **** </h1>   
 	 
 
     </section>    
